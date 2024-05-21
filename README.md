@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, aqui é o Anderson ou Naka para quem ja me conhece! 👋
 
 <!--
 **andnaka/andnaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
