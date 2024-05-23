@@ -1,5 +1,5 @@
 ## Olá, aqui é o Anderson ou Naka para quem ja me conhece! 
-Sou Analista de Seguridade e Dados. Formado em Ciência da Computação e já atuei em diversas funções como técnico em informática, analista de sistemas, gerente de tecnologia da informação e até por conta próprio. Sim, já tentei empreender!
+Sou Analista de Seguridade e Dados. Formado em Ciência da Computação e já atuei em diversas funções como técnico em informática, analista de sistemas, gerente de tecnologia da informação e até por conta própria. Sim, já tentei empreender!
 Desde 2019 atuo no segmento de Entidades Fechadas de Previdência Complementar como Analista de Seguridade, iniciando na BB Previdência e atualmente na Valia.
 
 Gosto muito:
