@@ -20,6 +20,10 @@ Meu foco atual para me desenvolver tem sido:
   <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
   <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" />
   <img width='60' height='60' src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" />
+  <img width='60' height='60' src="https://github.com/andnaka/icons/blob/main/data-analysis-svgrepo-com.svg" />
+  <img width='60' height='60' src="https://github.com/andnaka/icons/blob/main/ai-svgrepo-com.svg" />
+
+  
 </div>
 
 ___
